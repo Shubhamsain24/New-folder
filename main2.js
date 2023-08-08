@@ -16,7 +16,6 @@ let newitem = document.getElementById('item');
 let newitem2 = document.getElementById('description');
 //console.log(newitem.value)
 
-
 // create new li element
 let li = document.createElement("li")
 li.className = "list-group-item"
